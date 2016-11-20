@@ -10,7 +10,7 @@ setup(
     author = "Ganesh Kumar M",
     author_email = "ganeshkumarm.1996@gmail.com",
     license = "GPLv2",
-    url = "https://github.com/GaneshmKumar/Alertify/blob/master/alertify/notify.py",
+    url = "https://github.com/GaneshmKumar/TVFreak",
     packages = ["tvfreak"],
     install_requires=[
           'requests',
