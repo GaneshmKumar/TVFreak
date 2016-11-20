@@ -38,5 +38,10 @@ The output will be a folder containing the name of the TVShow you have given
 * Goto ``File > Batch Downloads > Text File Import(.txt) ..``
 * Import the desired text file and continue as per the instructions
 
+## UNINSTALL ##
+To uninstall TVFreak, execute the following line in your terminal
+
+``sudo rm -rf /usr/local/bin/tvfreak``
+
 
 **NOTE:** Works on Linux only.
